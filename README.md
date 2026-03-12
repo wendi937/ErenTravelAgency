@@ -1,6 +1,6 @@
 # ErenTravelAgency - Travel Management System
 ## Project Overview
-The Travel Management Platform is a digital system designed to connect travelers with travel agencies in a single environment. Instead of searching across multiple websites or contacting agencies individually, users can explore travel opportunities, compare offers, and book trips directly through the platform.
+The Travel Management System is a digital system designed to connect travelers with travel agencies in a single environment. Instead of searching across multiple websites or contacting agencies individually, users can explore travel opportunities, compare offers, and book trips directly through the platform.
 The system provides a space where travel agencies can publish travel packages and promotions while travellers can discover destinations and manage their travel plans. By centralizing these interactions, the platform simplifies trip planning and improves communication between agencies and potential customers.
 ### User Roles & Features
 ### Traveller (Client)
